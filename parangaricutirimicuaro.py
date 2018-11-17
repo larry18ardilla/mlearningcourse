@@ -1,3 +1,0 @@
-print("parangaricutirimicuaro.")
-
-print("perk")
